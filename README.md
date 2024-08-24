@@ -37,7 +37,7 @@ Here is a sample of the data from the cleaned dataset:
 Data Wrangling was done in Excel which included getting dates in proper DD-MM-YYYY format. Removed unwanted columns.
 
 ## Power BI
-
-Download the Power BI report file: [dashboard.pbix]()
+![Power BI Dashboard](path_to_your_image.png)
+Download the Power BI report file: [dashboard.pbix](https://github.com/AnuragChaudhari9/OnlineRetailData/blob/main/Sales.pbix)
 
 The revenue column was calculated by multiplying quantity with unit price. This was then used to plot crucial plots to gain insights into 
