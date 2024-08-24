@@ -37,7 +37,9 @@ Here is a sample of the data from the cleaned dataset:
 Data Wrangling was done in Excel which included getting dates in proper DD-MM-YYYY format. Removed unwanted columns.
 
 ## Power BI
-![Power BI Dashboard](path_to_your_image.png)
+![Power BI Dashboard](https://github.com/AnuragChaudhari9/OnlineRetailData/blob/main/E-commerce%20Sales%20UK.jpg)
 Download the Power BI report file: [dashboard.pbix](https://github.com/AnuragChaudhari9/OnlineRetailData/blob/main/Sales.pbix)
 
-The revenue column was calculated by multiplying quantity with unit price. This was then used to plot crucial plots to gain insights into 
+The revenue column was calculated by multiplying quantity with unit price. This was then used to plot crucial plots to gain insights into Total Revenue trend per month, Total Revenue vs Price of the item, and quantities sold per year.
+
+The Revenue was highest in January 2010 and has a slight decreasing trend overall, coming into December 2011. Total transactions in 2011 were much higher than in 2010. Items priced less than £50 generated most revenue (97.92%).
